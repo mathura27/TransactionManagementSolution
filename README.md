@@ -1,10 +1,8 @@
-# TransactionManagementSolution
-Solution for code challenge Financial transaction analyzer
 @author : Mathura
 
 ****************Instructions for running **********************
 
-1. Extract TransactionManager.zip
+1. Extract transactionManagmentSolution.zip and move into the run folder.
 2. Open command prompt and navigate to the folder location
 3. Place the input CSV file within the same folder
 4. And run the command java -jar transactionManager-0.0.1-SNAPSHOT.jar to execute the jar

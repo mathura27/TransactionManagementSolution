@@ -8,7 +8,7 @@ Solution for code challenge Financial transaction analyzer
 2. Open command prompt and navigate to the folder location
 3. Place the input CSV file within the same folder
 4. And run the command java -jar transactionManager-0.0.1-SNAPSHOT.jar to execute the jar
-5. When asked for file name provide a valid file name.(casre-sensitive)
+5. When asked for file name provide a valid file name.(case-sensitive)
 6. Similarly provide a valid accountId 
 7. Then provide both from date and to date in "dd/MM/yyyy HH:mm:ss"
 
